@@ -1,4 +1,4 @@
-equire 'bundler'
+require 'bundler'
 
 describe "Bundler" do
   before :all do
